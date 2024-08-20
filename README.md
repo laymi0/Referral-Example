@@ -30,7 +30,7 @@ This project is an example implementation of a referral system using AIOgram Dia
 
 3. Start the bot:
     ```bash
-    python bot.py
+    python main.py
     ```
 
 ## Usage
